@@ -1,7 +1,7 @@
 # ENGINEERING JOURNAL: FLIGHT SOFTWARE ARCHITECTURE
 **Project:** Modular Aerospace Telemetry Unit (CanSat Standard)  
 **Author:** Paxton Bloodworth  
-**Grade:** 11.
+**Grade:** 11
 **Targetted Program:** Aerospace Engineering
 
 ---
