@@ -2,7 +2,8 @@
 **Project:** Modular Aerospace Telemetry Unit (CanSat Standard)  
 **Author:** Paxton Bloodworth  
 **Grade:** 11
-**Target Program:** Aerospace Engineering
+
+**Targetted Program:** Aerospace Engineering
 
 ---
 
