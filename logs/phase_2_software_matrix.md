@@ -75,3 +75,17 @@ Alt: 550.0m  | Pitch: -0.8842° | Roll: 12.0046°
 
 Process finished with exit code 0
 ```
+## 4. CHASSIS FABRICATION & TOLERANCE FIT VERIFICATION
+To validate the structural integrity and internal clearances of the vehicle shell prior to hardware integration, the external hull cylinder was fabricated using standard PLA on a Creality K1C architecture.
+
+### Manufacturing Slicing Profiles:
+*   **External Hull Footprint:** X: 66.0 mm | Y: 66.0 mm | Z: 115.0 mm
+*   **Structural Wall Profile:** 2.0 mm shell thickness.
+*   **Total Consumed Mass:** 55.67 grams (PLA Filament).
+*   **Total Print Duration:** 4 hours, 38 minutes.
+
+### Empirical Alignment Diagnostics:
+A physical translation test was conducted by inserting the modified 61.5 mm conformal capsule sled into the 62.0 mm internal diameter hull cavity. 
+1.  **Kinematic Glide:** The sled translates through the entire 115.0 mm vertical axis with zero mechanical binding or mid-tube jamming.
+2.  **Surface Friction Profile:** The internal cylindrical walls exhibit high layer uniformity with no surface artifacts, allowing gravity-induced translation when oriented vertically.
+3.  ** telemetry Stabilization:** The engineered 0.25 mm clearance margin per side successfully eliminates axial wobble, ensuring the MPU-6050 IMU will capture authentic vehicle dynamics rather than chassis structural vibrations.
