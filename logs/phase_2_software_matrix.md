@@ -88,4 +88,4 @@ To validate the structural integrity and internal clearances of the vehicle shel
 A physical translation test was conducted by inserting the modified 61.5 mm conformal capsule sled into the 62.0 mm internal diameter hull cavity. 
 1.  **Kinematic Glide:** The sled translates through the entire 115.0 mm vertical axis with zero mechanical binding or mid-tube jamming.
 2.  **Surface Friction Profile:** The internal cylindrical walls exhibit high layer uniformity with no surface artifacts, allowing gravity-induced translation when oriented vertically.
-3.  ** telemetry Stabilization:** The engineered 0.25 mm clearance margin per side successfully eliminates axial wobble, ensuring the MPU-6050 IMU will capture authentic vehicle dynamics rather than chassis structural vibrations.
+3.  **Telemetry Stabilization:** The engineered 0.25 mm clearance margin per side successfully eliminates axial wobble, ensuring the MPU-6050 IMU will capture authentic vehicle dynamics rather than chassis structural vibrations.
